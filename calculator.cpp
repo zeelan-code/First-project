@@ -1,3 +1,4 @@
+//This program is to do simple calculations ( calculator)
 # include <iostream>
 using namespace std;
 
